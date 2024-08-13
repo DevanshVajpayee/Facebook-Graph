@@ -2,7 +2,7 @@
 
 This project analyzes the structure and relationships within a Facebook friends network using graph theory. The dataset, sourced from the facebook_combined.txt file, represents users as nodes and friendships as edges in an undirected graph.
 
-### Key Features:
+## Key Features:
 
 **Graph Construction:** The project reads and processes the Facebook dataset to create an undirected graph, with each node representing a user and each edge representing a friendship.
 
